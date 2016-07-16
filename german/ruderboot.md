@@ -33,3 +33,5 @@ Werden Sie:
 [Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
 
 [Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)
+
+[Aus dem Boot springen und in den fränkischen Bierkeller am Rande des Ufers schwimmen] (Bierkeller(bierkeller.md)
